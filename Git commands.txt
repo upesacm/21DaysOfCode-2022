@@ -1,0 +1,40 @@
+login command:
+git config --global user.name "sharad-24"
+git config --global user.email 500075287@stu.upes.ac.in
+
+Git initialising command:
+git init
+
+Adding remote repository:
+git remote add origin <repo-link>
+
+Checking remote repository:
+git remote -v
+
+Status command:
+git status
+
+Add command:
+git add .
+
+Commit command:
+git commit -m "your message"
+
+Push command:
+git push origin master
+
+Creating new branch:
+git checkput -b <branch-name>
+
+Switch branch:
+git checkout branch
+
+Checking current branch:
+git branch
+
+Checking push logs:
+git log
+
+Revert the commit:
+git revert <log-id>
+
