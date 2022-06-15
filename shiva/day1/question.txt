@@ -1,0 +1,4 @@
+Given a string, s, consisting of alphabets and digits, find the frequency of each digit in the given string.
+input will be in one line eg a11472o5t6
+output has to be the frequencies seperated by space
+question taken from hackerrank
