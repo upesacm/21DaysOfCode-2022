@@ -37,6 +37,7 @@ vector<ll> printDivisors(ll n)
     }
     return v; // returns the second largest element in the vector
 }
+// O(N.log N) approach
 void solve(){
     int n,i=0;
     cin>>n;
