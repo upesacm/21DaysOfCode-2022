@@ -7,7 +7,6 @@
 int main() 
 {
 
-    
     int n=0,sum=0,x;
     scanf("%d",&n);
     //int *val = (int*)malloc(n*sizeof(int));
