@@ -1,0 +1,3 @@
+Complete the following functions using bitwsie operators.
+Understand and utilize the bitwaise operators.
+question taken from hackerrank.
