@@ -32,3 +32,7 @@ printf("\n");
 
 return 0;
 }
+
+// this code took me more than an hour
+// 0-0
+// bruh lmao
