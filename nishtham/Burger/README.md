@@ -1,0 +1,1 @@
+ques:https://www.codechef.com/submit/BURGERS
