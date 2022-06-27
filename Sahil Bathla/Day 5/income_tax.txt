@@ -1,0 +1,5 @@
+Calculate income tax paid by an employee to the government as per the slabs mentioned below:
+Income Slab              Tax
+2.5L - 5L                5%
+5L - 10L                 20%
+Above 10L                30%

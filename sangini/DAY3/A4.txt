@@ -1,0 +1,23 @@
+SOLUTION:1
+
+list1=[5,7,5,3,7]
+res=set(list1)
+list2=list(res)
+print(list2[0])
+
+
+SOLUTION:2
+
+list1=[5,7,5,3,7]
+for i in range(0,5):
+  fn=list1[i]
+  count=0
+  for j in range(0,5):
+    if fn==list1[j]:
+      count=count+1
+    else:
+      pass
+  if count>=2:
+    continue
+  else:
+    print(fn)

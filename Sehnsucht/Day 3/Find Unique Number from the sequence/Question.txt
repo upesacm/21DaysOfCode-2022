@@ -1,0 +1,8 @@
+Find the unique element in the array.
+
+
+Input: n->for the number of entries
+       Then the array elements
+ex
+sequence: 5 7 3 5 7
+answer: 3

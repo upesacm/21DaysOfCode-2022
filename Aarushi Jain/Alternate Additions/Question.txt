@@ -1,0 +1,20 @@
+Problem
+Chef has 22 numbers AA and BB (A \lt B)(A<B).
+
+Chef will perform some operations on AA.
+
+In the i^{th}i 
+th
+  operation:
+
+Chef will add 11 to AA if ii is odd.
+Chef will add 22 to AA if ii is even.
+Chef can stop at any instant. Can Chef make AA equal to BB?
+
+Input Format
+The first line contains a single integer TT — the number of test cases. Then the test cases follow.
+The first and only line of each test case contains two space separated integers AA and BB.
+Output Format
+For each test case, output YES if Chef can make AA and BB equal, NO otherwise.
+
+Note that the checker is case-insensitive. So, YES, Yes, yEs are all considered same.

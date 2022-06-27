@@ -1,0 +1,12 @@
+t=int(input())
+for i in range(t):
+    n,x=map(int,input().split())
+    rem=n%6
+    if rem==0:
+        subs=n//6
+        tot=x*subs
+    else:
+        subs=(n//6)+1
+        tot=x*subs
+    print(tot)
+    
