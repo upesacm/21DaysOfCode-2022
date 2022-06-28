@@ -1,0 +1,1 @@
+Question: https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true
