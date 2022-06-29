@@ -1,0 +1,1 @@
+ques: https://www.hackerrank.com/challenges/printing-pattern-2/problem?isFullScreen=true
