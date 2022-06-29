@@ -1,0 +1,3 @@
+first question is to swap cases ; then the next is to join some split lines
+
+questions taken from hackerrank
