@@ -1,0 +1,6 @@
+Chef has an array AA of length NN.
+
+Let f(i)f(i) denote the sum A_1 + A_2 +........ + A_i and let g(i) denote the sum A_i + A_{i + 1} +.....+ A_NA 
+Chef creates another array BB of length NN such that B_i = f(i) + g(i) for all 1 \leq i \leq N1≤i≤N.
+
+Now, Chef has lost the original array AA and needs your help to recover it, given array BB. It is guaranteed that Chef has obtained the array BB from a valid array AA
