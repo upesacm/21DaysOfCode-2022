@@ -1,0 +1,7 @@
+You are given a string SS with length NN. You may perform the following operation any number of times: choose a non-empty substring of SS (possibly the whole string SS) such that each character occurs an even number of times in this substring and erase this substring from SS. (The parts of SS before and after the erased substring are concatenated and the next operation is performed on this shorter string.)
+
+For example, from the string "acabbad", we can erase the highlighted substring "abba", since each character occurs an even number of times in this substring. After this operation, the remaining string is "acd".
+
+Is it possible to erase the whole string using one or more operations?
+
+Note: A string BB is a substring of a string AA if BB can be obtained from AA by deleting several (possibly none or all) characters from the beginning and several (possibly none or all) characters from the end.
