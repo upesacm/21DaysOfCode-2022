@@ -1,0 +1,3 @@
+You are given an integer, . Your task is to print an alphabet rangoli of size .
+
+question from hackerrank
