@@ -1,0 +1,5 @@
+Reset/Turn Off ith bit of a given number.
+
+Example:
+Input:n=10 ,k=2
+Output:8

@@ -1,0 +1,5 @@
+Find the ith bit of a given number.
+
+Example:
+Input:n=10,i=2
+Output:1
