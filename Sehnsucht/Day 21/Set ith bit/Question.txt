@@ -1,0 +1,7 @@
+Link to the problem:https://www.geeksforgeeks.org/set-k-th-bit-given-number/
+
+Turn On/Set ith bit of a given number.
+
+Example:
+Input: n=10,k=2
+Output:14

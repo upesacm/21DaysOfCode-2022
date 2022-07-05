@@ -1,0 +1,8 @@
+Find even or odd using bit manipulation.
+
+example:
+Input: 8
+Output:Even
+
+Input:9
+Output:Odd
