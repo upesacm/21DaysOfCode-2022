@@ -1,0 +1,6 @@
+I tried to make a Unit conversion program in C. Since, I am a beginner I only included 5 conversions.
+
+
+PROBLEM FACING:
+The output I am getting after running the program is not the desired output. It is having a lot of places after the decimal poiny. I even tried using %.2f to try and round it off but it is not working. 
+Please run it and tell me where am I wrong.
